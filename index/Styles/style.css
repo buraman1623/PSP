@@ -1,0 +1,87 @@
+body{
+    font-family: arial, sans-serif;
+  }
+  header{
+    text-align: center;
+    padding: 20px;
+    background-color: #E8F0F2;
+    border-radius: 12px;
+  }
+  h3.headerh3{
+    color: #246EB9;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+  }
+  p{
+    color: #A6A6A6;
+    margin-top: 0;
+  }
+  footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #E8F0F2;
+    border-radius: 12px;
+  }
+  h3.baba{
+    color: #246EB9;
+    font-size: 30px;
+    font-style: normal;
+  }
+  div{
+    background-color: #f8fafc;
+    text-align: center;
+    border-radius: 12px;
+    padding: 10px;
+  }
+button.devices{
+  background-color: #246eb9;
+  padding: 20px;
+  justify-content: center;
+  color: #f2f7f9;
+  text-decoration: none;
+  border-radius: 8px;
+  margin: 10px;
+  border-color: #246eb9;
+  box-shadow: none;
+}
+button.devices:hover{
+  transition: 1s;
+  color: #246eb9;
+  background-color: #f2f7f9;
+  cursor: pointer;
+}
+button.devices:active{
+  transition: 0.5s;
+  color: #f2f7f9;
+  background-color: #246eb9;
+}
+a{
+  text-decoration: none;
+}
+div.About{
+  text-align: right;
+  background-color: white;
+}
+div.games{
+  text-align: center;
+  alt: initial;
+}
+img{
+  border-radius: 10px;
+  margin: 20px;
+}
+img:hover{
+  transition: 1s;
+  opacity: 0.7;
+}
+img:active{
+  transition: 1s;
+  opacity: 0.5;
+} #searchInput {
+        padding: 5px;
+        width: 200px;
+    }
+    .hidden {
+        display: none;
+    }
